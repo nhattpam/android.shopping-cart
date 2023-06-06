@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cart Noty</string>
+    <string name="channel_name">Cart Channel</string>
+    <string name="channel_description">Channel for cart notifications</string>
+    <string name="cart_reminder_title">Cart Reminder</string>
+    <string name="cart_reminder_message">You have items to checkout!</string>
+</resources>
